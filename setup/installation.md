@@ -25,7 +25,25 @@ This file covers setting up the vỉtual lab environment using UTM on macOS
 
 • Configure CPU: 2 Cores, RAM: 2048Mb, Storage: 20Gb
 
-## 4. Verification
-• VM boots successfully
+## 4. Set Up Ubuntu
+• Language: English
 
-• Ubuntu installion screen appears
+• Keyboard: Default
+
+• Server Type: select Apple Ubuntu Server
+
+• Network: Default
+
+• Proxy: Empty
+
+• Mirror: Default
+
+• Storage: Use an entire disk
+
+• Create user: Your name: , Server name: server1/2/3, User name: verra, Password: 
+
+• SSH set up: select Install OpenSSH Server
+
+• Feautured Server snaps: skip
+
+• After installed -> reboot
