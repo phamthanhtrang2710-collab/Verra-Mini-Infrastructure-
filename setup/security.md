@@ -27,13 +27,13 @@ On server 3
     cat notes.txt
 ## Create New User
 
-    adduser testuser
+    adduser thi
 ## Create new group
 
-    addgroup testusers
+    addgroup thi
 ## Align user to group
 
-    usermod -aG testusers testuser
+    usermod -aG thi thi
 ## Check existing group
 
     cat /etc/group
@@ -49,7 +49,7 @@ or
     chmod 600 notes.txt
 ## Change Owner
 
-    chown testuser:testusers notes.txt
+    chown thi:thi notes.txt
 ## Check permissions and owner
 
     ls -l
