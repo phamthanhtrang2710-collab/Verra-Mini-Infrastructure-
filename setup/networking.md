@@ -11,27 +11,27 @@ Or
 
 (Write down the IP address)
 
-• Server 1: 192.168.1.123
+• Server 1: 10.190.139.4
 
-• Server 2: 192.168.1.147
+• Server 2: 10.190.139.5
 
-• Server 3: 192.168.1.125
+• Server 3: 10.190.139.6
 
 ## Test Connectivity
 From server 1 to server 2
 
 Command:
 
-    ping -c 4 192.168.1.147
+    ping -c 4 10.190.139.5
 
 Reverse:
 
-    ping -c 4 192.168.1.123
+    ping -c 4 10.190.139.4
 
 From server 1 to server 3, and reverse
 
-    ping -c 4 192.168.1.125 (on S1)
-    ping -c 4 192.168.1.123 (on S3)
+    ping -c 4 10.190.139.6 (on S1)
+    ping -c 4 10.190.139.4 (on S3)
 
 ## Set Hostname (If Needed)
 Command:
