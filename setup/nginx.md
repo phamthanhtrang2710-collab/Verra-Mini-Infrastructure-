@@ -17,11 +17,11 @@ On server 2
 ## Test access
 On server 2
 
-    curl http://192.168.1.147
+    curl http://10.190.139.5
 
 On server 1
 
-    curl http://192.168.1.147
+    curl http://10.190.139.5
 
 ## Edit Web Page
 On server 2
