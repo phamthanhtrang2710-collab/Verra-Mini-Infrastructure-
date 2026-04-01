@@ -30,7 +30,7 @@ View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infra
 View here: [Open Folder]
 
 #### SSH Set Up
-View here: [Open Folder]
+View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infrastructure-Project/tree/d845594dac14c068109c56f8a6ac2175eaa07392/Screenshots/SSH%20Set%20Up)
 
 #### Docker Set Up
 View here: [Open Folder]
