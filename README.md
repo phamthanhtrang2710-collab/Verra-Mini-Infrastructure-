@@ -36,7 +36,7 @@ View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infra
 View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infrastructure-Project/tree/8767d7424c4dac8dd0838a975b8c919fab593ec9/Screenshots/Docker%20Set%20Up)
 
 #### Nginx Set Up
-View here: [Open Folder]
+View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infrastructure-Project/tree/4a259f8be85e2780445109522780ec9feae1ee12/Screenshots/Nginx%20Set%20Up)
 
 #### Firewall Set Up
 View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infrastructure-Project/tree/dbf38b8ff1b0c6de26172417dc387755d5e95e4b/Screenshots/Firewall%20Set%20Up)
