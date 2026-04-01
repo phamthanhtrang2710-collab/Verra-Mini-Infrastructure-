@@ -22,7 +22,7 @@ Server 3: Testing server for network diagnostics, SSH connectivity, and troubles
 
 •	Tested connectivity between nodes using ping, curl, SSH, and port inspection tools
 
-## Screenshoots
+## Screenshots
 #### Virtual Machine Set Up
 View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infrastructure-Project/tree/dec969b0d7d627ef21fa7d5ebe4881bd2c37e1e1/Screenshots/Virtual%20Machine%20Set%20Up)
 
