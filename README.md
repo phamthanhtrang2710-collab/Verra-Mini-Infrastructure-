@@ -39,7 +39,7 @@ View here: [Open Folder]
 View here: [Open Folder]
 
 #### Firewall Set Up
-View here: [Open Folder]
+View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infrastructure-Project/tree/dbf38b8ff1b0c6de26172417dc387755d5e95e4b/Screenshots/Firewall%20Set%20Up)
 
 ## Skills Gained
 	•	Linux system administration
