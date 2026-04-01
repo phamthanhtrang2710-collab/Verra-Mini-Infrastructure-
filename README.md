@@ -27,7 +27,7 @@ Server 3: Testing server for network diagnostics, SSH connectivity, and troubles
 View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infrastructure-Project/tree/dec969b0d7d627ef21fa7d5ebe4881bd2c37e1e1/Screenshots/Virtual%20Machine%20Set%20Up)
 
 #### Network Set Up
-View here: [Open Folder]
+View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infrastructure-Project/tree/2eed9cd77672ed4eb6720063dcb1b0813429c65b/Screenshots/Network%20Set%20Up)
 
 #### SSH Set Up
 View here: [Open Folder](https://github.com/phamthanhtrang2710-collab/Mini-Infrastructure-Project/tree/d845594dac14c068109c56f8a6ac2175eaa07392/Screenshots/SSH%20Set%20Up)
